@@ -1,0 +1,15 @@
+{
+  "zoho": {
+    "baseURL": "https://books.zoho.com/api/v3/",
+    "contactsURL": "https://books.zoho.com/api/v3/contacts",
+    "orgID": 649249007,
+    "authToken": "db36e02a50b57e081efe533a8a0f834b"
+  },
+  "default": {
+    "page": 1,
+    "limit": 30
+  },
+  "api": {
+    "port": 3000
+  }
+}
